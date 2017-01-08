@@ -1,2 +1,2 @@
 # hello-world
-Testing
+Hey I am JR. This is my first project on GitHub
